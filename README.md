@@ -4,7 +4,7 @@ Este é um projeto de um relógio digital que exibe as horas do seu computador. 
 
 ## Demonstração
 
-![Imagem do Relógio Digital]()
+![Imagem do Relógio Digital](img/Screenshot_1.png)
 
 ## Funcionalidades
 
